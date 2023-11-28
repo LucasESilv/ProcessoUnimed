@@ -1,0 +1,15 @@
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\bin\Debug\net8.0\ProcessoUnimed.exe
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\bin\Debug\net8.0\ProcessoUnimed.deps.json
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\bin\Debug\net8.0\ProcessoUnimed.runtimeconfig.json
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\bin\Debug\net8.0\ProcessoUnimed.dll
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\bin\Debug\net8.0\ProcessoUnimed.pdb
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.AssemblyInfoInputs.cache
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.AssemblyInfo.cs
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.csproj.CoreCompileInputs.cache
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.sourcelink.json
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.dll
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\refint\ProcessoUnimed.dll
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.pdb
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ProcessoUnimed.genruntimeconfig.cache
+C:\Users\Área DEV\Documents\GitHub\ProcessoUnimed\obj\Debug\net8.0\ref\ProcessoUnimed.dll
