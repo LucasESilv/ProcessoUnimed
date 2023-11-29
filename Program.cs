@@ -33,6 +33,16 @@ namespace ProcessoUnimed
             {
                 Console.WriteLine($"A palavra '{input}' não é um palíndromo.");
             }
+
+            //Árvore Binária Simples
+            ProcessoUnimed.BinaryTree.BinaryTree tree = new ProcessoUnimed.BinaryTree.BinaryTree();
+            int[] numbers = { 5, 3, 2, 4, 1, 6, 7, 8, 9, 10 }; // Números de 1 a 5
+            foreach (var number in numbers)
+            {
+                tree.Insert(number);
+            }
+            Console.WriteLine("Árvore em ordem:");
+            tree.InOrderTraversal(tree.Root);
         }
     }
 }

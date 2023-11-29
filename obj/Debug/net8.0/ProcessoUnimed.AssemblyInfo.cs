@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessoUnimed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cefc08aa8d485aed545329ff7adec17417f4d84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df926415fa8d762db95857e750ee9cce9ff42a75")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessoUnimed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessoUnimed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
