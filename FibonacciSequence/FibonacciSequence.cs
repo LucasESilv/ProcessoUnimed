@@ -1,6 +1,6 @@
 namespace ProcessoUnimed.FibonacciSequence
 {
-    public class Fibonacci
+    public class FibonacciSequence
     {
         public int PrintFibonacci(int n)
         {
