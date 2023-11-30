@@ -20,6 +20,16 @@ namespace ProcessoUnimed
             Console.WriteLine("Array após a ordenação:");
             sorter.PrintArray(arrayToSort);
 
+            //Busca em Lista Ordenada
+            int[] OrderedNumbers = { 2, 5, 8, 12, 16, 23, 38, 56, 72, 91 };
+            Console.WriteLine("Digite um número para buscar na lista ordenada:");
+            int Num = Convert.ToInt32(Console.ReadLine());
+            int Result = ProcessoUnimed.OrderedSearch.OrderedSearch.BinarySearch(OrderedNumbers, Num);
+            if (Num != -1)
+                Console.WriteLine($"O número {Num} está na posição {Result} da lista.");
+            else
+                Console.WriteLine($"O número {Num} não está presente na lista.");
+
             //Verificação de palíndromos 
             Console.WriteLine("Digite a palavra para sabermos se é um palíndromo");
             string input = Console.ReadLine();
